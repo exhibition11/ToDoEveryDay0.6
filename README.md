@@ -21,7 +21,7 @@
 
 
 ※実際の画面、3次元上での作業の写真などを、「アプリスクリーンショットなど」のファイル内に入れてあります。
-※windowsのため、pyinstallerでexe化してあります。
+※windowsのため、pyinstallerでexe化してあります。main.exeを実行
 
 
 
